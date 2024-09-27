@@ -1,0 +1,28 @@
+{
+  "name": "passionweb/custom-user-settings",
+  "description": "Extending the user settings interface by a checkbox and a text field",
+  "type": "typo3-cms-extension",
+  "version": "1.0.0",
+  "homepage": "https://www.passionweb.de",
+  "authors": [
+    {
+      "name": "Kristian Raszewski",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+      "typo3/cms-core": "^12.4",
+      "typo3/cms-backend": "^12.4",
+      "typo3/cms-setup": "^12.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "Passionweb\\CustomUserSettings\\": "Classes/"
+    }
+  },
+  "extra": {
+    "typo3/cms": {
+      "extension-key": "custom_user_settings"
+    }
+  }
+}
