@@ -3,11 +3,23 @@
     <file source-language="en" datatype="plaintext" original="EXT:ui_ext/Resources/Private/Language/locallang_db.xlf" date="2020-10-18T18:20:51Z" product-name="ui_ext">
         <header/>
         <body>
+            <trans-unit id="mlang_tabs_tab">
+                <source>Custom user settings</source>
+            </trans-unit>
             <trans-unit id="tx_passionweb_contributors" resname="tx_passionweb_contributors">
                 <source>Project Contributors</source>
             </trans-unit>
             <trans-unit id="tx_passionweb_check" resname="tx_passionweb_check">
                 <source>Passionweb Member</source>
+            </trans-unit>
+            <trans-unit id="tx_passionweb_column" resname="tx_passionweb_column">
+                <source>Codebreak Settings</source>
+            </trans-unit>
+            <trans-unit id="passionweb_settings_tab" resname="passionweb_settings_tab">
+                <source>Codebreak Settings</source>
+            </trans-unit>
+            <trans-unit id="plugin.userSettings" resname="plugin.userSettings">
+                <source>User Settings Plugin</source>
             </trans-unit>
         </body>
     </file>

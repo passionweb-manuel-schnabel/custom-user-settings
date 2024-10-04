@@ -4,7 +4,9 @@ Shows an example of extending the user settings. (TYPO3 CMS)
 
 ## What does it do?
 
-Extending the user settings interface by a checkbox and a text field.
+1.0.0: Extending the user settings interface by a checkbox and a text field.
+
+1.1.0: Shows example usage of custom user settings in backend module.
 
 ## Installation
 

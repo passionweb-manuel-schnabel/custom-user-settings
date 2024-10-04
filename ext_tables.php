@@ -17,7 +17,6 @@ $GLOBALS['TYPO3_USER_SETTINGS']['columns']['tx_passionweb_check'] = [
 $GLOBALS['TYPO3_USER_SETTINGS']['columns']['tx_passionweb_contributors'] = [
     'label' => $lll . 'tx_passionweb_contributors',
     'type' => 'text',
-    'table' => 'be_users',
 ];
 
 ExtensionManagementUtility::addFieldsToUserSettings(
