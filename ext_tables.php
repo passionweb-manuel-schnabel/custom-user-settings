@@ -20,8 +20,8 @@ $GLOBALS['TYPO3_USER_SETTINGS']['columns']['tx_passionweb_contributors'] = [
 ];
 
 ExtensionManagementUtility::addFieldsToUserSettings(
-    'tx_passionweb_check, tx_passionweb_contributors',
-    'after:email',
+    '--div--;'. $lll . 'tx_passionweb_user_settings_tab' .',tx_passionweb_check, tx_passionweb_contributors',
+    'after:lang',
 );
 
 

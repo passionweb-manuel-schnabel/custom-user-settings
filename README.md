@@ -8,6 +8,8 @@ Shows an example of extending the user settings. (TYPO3 CMS)
 
 1.1.0: Shows example usage of custom user settings in backend module.
 
+1.2.0: Structure custom user settings (add a separate tab).
+
 ## Installation
 
 Add via composer:

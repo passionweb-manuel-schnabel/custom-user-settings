@@ -15,7 +15,7 @@
             <trans-unit id="tx_passionweb_column" resname="tx_passionweb_column">
                 <source>Codebreak Settings</source>
             </trans-unit>
-            <trans-unit id="passionweb_settings_tab" resname="passionweb_settings_tab">
+            <trans-unit id="tx_passionweb_user_settings_tab" resname="tx_passionweb_user_settings_tab">
                 <source>Codebreak Settings</source>
             </trans-unit>
             <trans-unit id="plugin.userSettings" resname="plugin.userSettings">

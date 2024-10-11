@@ -2,7 +2,7 @@
   "name": "passionweb/custom-user-settings",
   "description": "Extending the user settings interface by a checkbox and a text field",
   "type": "typo3-cms-extension",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "homepage": "https://www.passionweb.de",
   "authors": [
     {
