@@ -18,6 +18,7 @@ Add via composer:
 
 * Install the extension via composer
 * Flush TYPO3 and PHP Cache
+* Save the user settings of a user in the backend
 
 ## Requirements
 
